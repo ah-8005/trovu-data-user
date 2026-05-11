@@ -1,5 +1,8 @@
+# yaml-language-server: $schema=https://trovu.net/schema/config.yml
+#
 # Documentation:
 # https://trovu.net/docs/users/advanced/#custom-configuration
+
 namespaces:
 - o
 - en
