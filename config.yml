@@ -9,6 +9,6 @@ namespaces:
 - .us
 - github: .
   name: my
-defaultKeyword: ya
+defaultKeyword: g
 language: en
 country: kz
