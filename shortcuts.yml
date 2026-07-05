@@ -11,3 +11,6 @@ examplekeyword 2:
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
   tags:
   - example
+mg 1: https://marginalia-search.com/search?query=<query>
+hn 1: https://hn.algolia.com/?q=<query>
+yamk 1: https://yandex.kz/maps/ru/10295/kostanai/search/<query>/
